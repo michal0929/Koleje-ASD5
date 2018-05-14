@@ -1,0 +1,3 @@
+C:/Users/micha/Desktop/SemestrIII-MichalKierzkowski/ASD/ASD5/Trasy/cmake-build-debug/CMakeFiles/Trasy.dir
+C:/Users/micha/Desktop/SemestrIII-MichalKierzkowski/ASD/ASD5/Trasy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/Desktop/SemestrIII-MichalKierzkowski/ASD/ASD5/Trasy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
